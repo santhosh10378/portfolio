@@ -1,7 +1,7 @@
 import { highlight } from 'sugar-high';
 import { MDXRemote } from 'next-mdx-remote/rsc';
 
-import Counter from '@/components/counter';
+import Counter from '@/components/Counter';
 
 function Code({ children, ...props }) {
   let codeHTML = highlight(children);
