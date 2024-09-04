@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-import Posts from '@/components/posts';
+import Posts from '@/components/Posts';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Cross2Icon } from '@radix-ui/react-icons';
