@@ -16,7 +16,7 @@ const Projects = ({ projects }) => {
             )} */}
 
             <div className='aspect-video w-full relative overflow-hidden bg-background rounded-xl border'>
-              <Image src={project.image} alt={project.title || ''} fill className='w-full h-full object-cover object-center transition-transform duration-500 hover:scale-110' />
+              <Image src={project.image} alt={project.title || ''} fill className='w-full aspect-video object-cover object-center transition-transform duration-500 hover:scale-110' />
               <div className='absolute inset-0 rounded-lg bg-foreground/20 opacity-0 transition-opacity duration-500 group-hover:opacity-100' />
             </div>
 
