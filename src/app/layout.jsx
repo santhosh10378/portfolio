@@ -14,8 +14,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata = {
-  title: 'PixelSwift | Your Gateway to Cutting-Edge Tech Solutions',
-  description: 'PixelSwift offers innovative tech solutions and digital experiences to help you stay ahead in a rapidly evolving digital landscape.',
+  title: `Santhosh's Portfolio`,
+  description: `Santhosh's Portfolio .`,
 };
 
 export default function RootLayout({ children }) {
