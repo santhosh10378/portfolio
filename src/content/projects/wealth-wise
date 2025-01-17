@@ -1,0 +1,52 @@
+---
+  title: Wealth Wise
+  summary: A full-stack Financial Tracker built with Next JS, Auth JS, Prisma, MongoDB, Tailwind CSS, Shadcn.
+  image: /images/projects/wealth-wise.png
+  author: 'Santhosh Kumar'
+  publishedAt: '2025-01-01'
+---
+
+This is a full-stack Financial Tracker application called Wealth Wise, built with Next.js, Auth.js, Prisma, MongoDB, Tailwind CSS, and Shadcn. It helps users manage their personal finances by tracking expenses, income, and investments.
+
+**Live Website**: [https://wealth-wise-nine.vercel.app](https://wealth-wise-nine.vercel.app/)
+
+## Features
+
+- **Expense Tracking**: Keep track of daily expenses with categorized entries.
+- **Income Management**: Record and monitor income sources to get a clear financial overview.
+- **User Authentication**: Secure user sign-up, login, and personalized dashboard.
+- **Financial Reports**: Generate detailed financial reports to analyze spending and savings patterns.
+
+## Technologies
+
+- **Next.js**: A React framework for building server-side rendered and static web applications.
+- **Auth.js**: For secure authentication and authorization.
+- **Prisma**: An ORM tool to interact seamlessly with the database.
+- **MongoDB**: A NoSQL database for storing user financial data.
+- **Tailwind CSS**: A utility-first CSS framework for creating responsive and visually appealing designs.
+- **Shadcn**: A modern UI library for building consistent and accessible components.
+
+## Getting Started
+
+To get started with this project, clone the repository and install the dependencies:
+
+```bash
+git clone
+npm install
+```
+
+After installing the dependencies, you can start the development server:
+
+```bash
+npm run dev
+```
+
+The development server will start at [http://localhost:3000](http://localhost:3000).
+
+## Deployment
+
+For deployment, use a cloud platform that supports Next.js applications, such as Vercel, Heroku, or AWS. Link your GitHub repository to the platform for easy deployment.
+
+## Conclusion
+
+Wealth Wise is a robust financial tracker application that leverages modern technologies like Next.js, Auth.js, Prisma, MongoDB, Tailwind CSS, and Shadcn. This project is an excellent example of building a comprehensive financial management tool, offering users the ability to manage their finances effectively and efficiently.
